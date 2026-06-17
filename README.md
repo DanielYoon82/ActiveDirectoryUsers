@@ -26,7 +26,7 @@ First, as a Domain Administrator, I viewed the OU named THM with five child OU's
 <br />
 
 - <b>Reviewing Users and Policies</b> <br/> <br />
-After reviewing, for example, the users in the IT department, I can see they have limited polices. Other departments have a different set of policies respectable to their position and department. Password resets may also be initiated if needed. <br />
+After reviewing, for example, the users in the IT department, I can see they have limited set of polices respectable to what they are allowed to access. Password resets may also be initiated if needed. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory2.jpg" height="40%" width="50%" alt="Disk Sanitization Steps"/>

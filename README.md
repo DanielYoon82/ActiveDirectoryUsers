@@ -34,11 +34,11 @@ After reviewing the users in the IT department, I can see they have a limited se
 <br />
 <br />
 
-- <b>Configuration of security events in Sentinel</b> <br />
-Installation of security events for further configuration and efforts in connecting my VM to the log analytics workspace. <br/>
+- <b>Deleting Extra OU's and Users</b> <br />
+I demonstrate below how to delete a how to delete a department OU from a domain. First, I enabled from the Advanced Features in the view menu. <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/AzureDataCollectionRule3.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory3.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />

@@ -40,7 +40,8 @@ I demonstrate below how to delete a department OU from a domain. First, I enable
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory3.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
-I demonstrate below how to delete a how to delete a department OU from a domain. First, I enabled from the Advanced Features in the view menu. <br/>
+In the objects tab, I then disabled the accidental deletion to allow the removal of this department. <br/>
+<p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory4.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <br />

@@ -1,17 +1,17 @@
-<h1>Home Lab - SOC in Azure</h1>
+<h1>Home Lab - Managing Users in Active Directory</h1>
 
 <h2>Description</h2>
-I created a SOC in Azure using a virtual machine as a honeypot. The data from log in attempts was forwarded to a central repository in Sentinel for observation. 
+In this virtual machine, Organizational Units is comprised of five seperate units. I demonstrate on how managing users can be implemented in a real-world scenario.  
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>KQL and Sentinel</b> 
+- <b>Windows Framework</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 and Sentinel</b> (21H2)
+- <b>Windows Server 2019</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
@@ -20,7 +20,7 @@ I created a SOC in Azure using a virtual machine as a honeypot. The data from lo
 First, I viewed the logs in the VM ensuring the events have taken place.  <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/LogRepository1.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 </p>
 <br />                                                                                                                                                    
 <br />

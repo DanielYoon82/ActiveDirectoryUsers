@@ -17,7 +17,7 @@ In this virtual machine, Organizational Units is comprised of five seperate unit
 
 
 - <b>Create New Organizational Unit</b> <br />
-First, as a Domain Administrator, I viewed the OU named THM with five child OU's listed. I then created a new OU named "Students."  <br/>
+First, as a Domain Administrator, I viewed the OU named THM with five child OU's listed. I then created a new OU named "Students" to demonstrate a new task.  <br/>
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory1.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
@@ -26,7 +26,7 @@ First, as a Domain Administrator, I viewed the OU named THM with five child OU's
 <br />
 
 - <b>Reviewing Users and Policies</b> <br/> <br />
-After reviewing, for example, the users in the IT department, I can see they have limited set of polices respectable to what they are allowed to access. Password resets may also be initiated if needed. <br />
+After reviewing the users in the IT department, I can see they have a limited set of polices respectable to what they are allowed to access. Password resets may also be initiated if needed. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory2.jpg" height="40%" width="50%" alt="Disk Sanitization Steps"/>

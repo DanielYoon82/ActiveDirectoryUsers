@@ -16,7 +16,7 @@ In this virtual machine, Organizational Units is comprised of five seperate unit
 <h2>Program walk-through:</h2>
 
 
-- <b>Viewing logs in security events</b> <br />
+- <b>Create New Organizational Unit</b> <br />
 First, as a Domain Administrator, I viewed the OU named THM with five child OU's listed. I then created a new OU named "Students."  <br/>
 <br />
 <p align="center">
@@ -25,11 +25,11 @@ First, as a Domain Administrator, I viewed the OU named THM with five child OU's
 <br />                                                                                                                                                    
 <br />
 
-- <b>Create a log repository</b> <br/> <br />
-Configuration of a log repository was made to forward virtual machine logs within. <br />
+- <b>Reviewing Users and Policies</b> <br/> <br />
+After reviewing, for example, the users in the IT department, I can see they have limited polices. Other departments have a different set of policies respectable to their position and department. Password resets may also be initiated if needed. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/LogAnalyticsWorkspace2.jpg" height="40%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory2.jpg" height="40%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />

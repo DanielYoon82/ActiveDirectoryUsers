@@ -17,10 +17,10 @@ In this virtual machine, Organizational Units is comprised of five seperate unit
 
 
 - <b>Viewing logs in security events</b> <br />
-First, I viewed the logs in the VM ensuring the events have taken place.  <br/>
+First, as a Domain Administrator, I viewed the OU named THM with five child OU's listed. I then created a new OU named "Students."  <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory1.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 </p>
 <br />                                                                                                                                                    
 <br />

@@ -17,7 +17,7 @@ In this virtual machine, I demonstrate managing, implenting changes, and delegat
 
 
 - <b>Create New Organizational Unit</b> <br />
-First, as a Domain Administrator, I viewed the OU named THM with five child OU's listed. I then created a new OU named "Students" to demonstrate a new task.  <br/>
+First, as a Domain Administrator, I viewed the OU named THM with five child OU's listed. I then created a new OU named "Students" by right-clicking THM selecting new then organizational unit.
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>

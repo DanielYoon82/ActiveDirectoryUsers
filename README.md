@@ -45,7 +45,7 @@ By default, OU's are protected against accidental deletion. To delete the OU, I 
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory4.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
-By default, OU's are protected against accidental deletion. To delete the OU, I need to enable the Advanced Features in the view menu. <br/>
+After unchecking the box, deletion of the OU was then completed.  <br/>
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory5.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>

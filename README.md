@@ -1,7 +1,7 @@
 <h1>Home Lab - Managing Users in Active Directory</h1>
 
 <h2>Description</h2>
-In this virtual machine, Organizational Units is comprised of five seperate units. I demonstrate on how managing users can be implemented in a real-world scenario.  
+In this virtual machine, I demonstrate managing and implenting changes in Active Directory.  
 <br />
 
 
@@ -11,7 +11,7 @@ In this virtual machine, Organizational Units is comprised of five seperate unit
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2019</b> (21H2)
+- <b>Windows Server 2019</b>
 
 <h2>Program walk-through:</h2>
 

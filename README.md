@@ -79,6 +79,6 @@ Once the user has been added, the Control Wizard prompts for tasks to delegate. 
 <br />
 
 - <b>Summary</b> <br />
-I demonstrated using Windows Active Directory with modeling a VM to manage, delete, and create OU's. 
+I demonstrated using Windows Active Directory with modeling a VM to manage, delete, and create OU's. I created an OU and enabled the advanced features to allow a removal of an OU as well. Password reset priveleges was given using steps to delegate control towards applicable departments. Adjustments within Active Directory is an ever-constant effort as these instances can occur in a real-world setting. 
 <br />
 <br />

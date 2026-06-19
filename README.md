@@ -46,6 +46,7 @@ By default, OU's are protected against accidental deletion. To delete the OU, I 
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory4.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
+  
 Finally, deletion can now be completed after disabling the object. <br/>
 <br />
 <p align="center">

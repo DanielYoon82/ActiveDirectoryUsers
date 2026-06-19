@@ -20,7 +20,7 @@ In this virtual machine, I demonstrate managing and implenting changes in Active
 First, as a Domain Administrator, I viewed the OU named THM with five child OU's listed. I then created a new OU named "Students" to demonstrate a new task.  <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory1.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />                                                                                                                                                    
 <br />
@@ -29,7 +29,7 @@ First, as a Domain Administrator, I viewed the OU named THM with five child OU's
 After reviewing the users in the IT department, I can see they have a limited set of polices respectable to what they are allowed to access. Password resets may also be initiated if needed. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory2.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
@@ -38,19 +38,19 @@ After reviewing the users in the IT department, I can see they have a limited se
 To complete deletion of a particular OU, I enabled from the Advanced Features in the view menu. <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory3.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
   
 By default, OU's are protected against accidental deletion. To delete the OU, I need to enable the Advanced Features. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory4.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
   
 Finally, deletion can now be completed after disabling the object. <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory5.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 <br />

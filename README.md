@@ -25,7 +25,7 @@ First, as a Domain Administrator, I viewed the OU named THM with five child OU's
 <br />                                                                                                                                                    
 <br />
 
-- <b>Reviewing Users and Policies</b> <br/> <br />
+- <b>Reviewing Users and Policies</b> <br/>
 After reviewing the users in the IT department, I can see they have a limited set of polices respectable to what they are allowed to access. Password resets may also be initiated if needed. <br />
 <br />
 <p align="center">

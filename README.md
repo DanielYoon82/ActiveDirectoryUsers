@@ -29,7 +29,7 @@ First, as a Domain Administrator, I viewed the OU named THM with five child OU's
 After reviewing the users in the IT department, I can see they have a limited set of polices respectable to what they are allowed to access. Password resets may also be initiated if needed. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory2.jpg" height="40%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory2.jpg" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />

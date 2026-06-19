@@ -39,7 +39,8 @@ I demonstrate below how to delete a department OU from a domain. First, I enable
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory3.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-A spreadsheet containing geolocation of IP addresses was uploaded to provide mapping ranges.<br />
+<br />
+I demonstrate below how to delete a department OU from a domain. First, I enabled from the Advanced Features in the view menu. <br/>
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory4.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>

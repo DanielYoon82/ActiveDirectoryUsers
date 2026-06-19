@@ -45,65 +45,27 @@ By default, OU's are protected against accidental deletion. To delete the OU, I 
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
   
 Finally, deletion can now be completed after disabling the object. <br/>
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 </p>
 <br />
 <br />
 
-- <b>Querying log repository with KQL</b> <br />
-A query using KQL searching for "SecurityEvent" was made to observe general logs.  <br/>
+- <b>User Delegation</b> <br />
+The IT department should be granted privileges to reset other low-privelege users' passwords. Below will demonstrate on how a particular user will be granted control over other departments. First, by right-clicking on the OU, the delegate control option is chosen. <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/ConnectVMToLogAnalyticsWorkspace4.jpg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-- <b>Applying specific KQL queries</b> <br />
-To narrow the search results, I applied "where" in "EventID" for event "4625." Specifically, "TimeGenerated, Account, Computer, EventID, Activity, IpAddress" further narrowed down the search to filter results of interest. <br />
-<br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/ReviewingLogRepositoryWithFilters6.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
-- <b>Geolocation data upload to SIEM</b> <br/>
-A spreadsheet containing geolocation of IP addresses was uploaded to provide mapping ranges.<br />
-<br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/GeoIPUploadedSheet7.jpg" height="35%" width="35%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-<br />
-
-- <b>Sentinel workbook for map</b> <br/>
-A new workbook within sentinel was created using a data from a json file. Data was then copy and pasted for a new query.<br />
-<br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/UploadGeoIPInWatchlistSentinel8.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
-</p>
-<p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/CreatedWorkbookInSentinelForMAp9.jpg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-- <b>Creation of attack map</b> <br/>
-As a result, an attack map showing logs from around the world illustrated where events had taken place.<br />
-<br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/AzureSentinelVM/blob/main/images/WorldMapOfLogIns10.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
-<p align="center">
-</p>
-<br />
-<br />
-
 - <b>Summary</b> <br />
-I demonstrated using Azure with modeling a VM to open up the network of cloud firewall to the internet. The data in the log repository was then forwarded to the log analytics workspace as a central repository. A spreadsheet containing geo data was implented in Sentinel (SIEM) to monitor log in activity using KQL filters. Finally, the result illustrated on a world map showing these events.
+I demonstrated using Windows Active Directory with modeling a VM to manage, delete, and create OU's. 
 <br />
 <br />

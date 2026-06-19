@@ -69,6 +69,13 @@ Phillip being the head of IT support, will be delegating control for the Sales d
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+Once the user has been added, the Control Wizard prompts for tasks to delegate. I choose the reset password option and will repeat these steps for other departments.  <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory8.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 <br />
 
 - <b>Summary</b> <br />

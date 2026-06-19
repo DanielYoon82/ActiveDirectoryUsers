@@ -39,10 +39,7 @@ I demonstrate below how to delete a department OU from a domain. First, I enable
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory3.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<br />
-In the objects tab, I then disabled the accidental deletion to allow the removal of this department.  <br/>
-<br />
-In the objects tab, I then disabled the accidental deletion to allow the removal of this department. <br/>
+A spreadsheet containing geolocation of IP addresses was uploaded to provide mapping ranges.<br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory4.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>

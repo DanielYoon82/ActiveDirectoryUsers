@@ -35,7 +35,7 @@ After reviewing the users in the IT department, I can see they have a limited se
 <br />
 
 - <b>Deleting Extra OU's and Users</b> <br />
-I demonstrate below how to delete a department OU from a domain. First, I enabled from the Advanced Features in the view menu. <br/>
+To complete deletion of a particular OU, I enabled from the Advanced Features in the view menu. <br/>
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory3.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>

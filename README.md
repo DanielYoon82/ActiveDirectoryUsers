@@ -1,7 +1,7 @@
 <h1>Home Lab - Managing Users in Active Directory</h1>
 
 <h2>Description</h2>
-In this virtual machine, I demonstrate managing and implenting changes in Active Directory.  
+In this virtual machine, I demonstrate managing, implenting changes, and delegating users in Active Directory.  
 <br />
 
 

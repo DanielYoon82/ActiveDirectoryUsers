@@ -63,7 +63,7 @@ The IT department should be granted privileges to reset other low-privelege user
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-Phillip being the head of IT support, will be delegating control for the Sales department along with other respective departments. After clcking add, I typed in Phillip and selected to check names ensuring no errors.  <br />
+Phillip being the head of IT support, will be delegating control for the Sales department along with other respective departments. After clicking add, I typed in Phillip and selected to check names ensuring no errors.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>

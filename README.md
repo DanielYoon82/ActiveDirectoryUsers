@@ -40,7 +40,7 @@ To complete deletion of a particular OU, I enabled from the Advanced Features in
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory3.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
-By default, OU's are protected against accidental deletion. To delete the OU, I need to enable the Advanced Features. This allows to complete the deletion therafter. <br/>
+By default, OU's are protected against accidental deletion. To delete the OU, I need to enable the Advanced Features. This allows to complete the deletion therafter. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory4.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>

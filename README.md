@@ -76,7 +76,7 @@ For the user that will be taking a temporary leave, I right-click and choose dis
 <br />
 
 - <b>Unlocking Account and Resetting Password</b> <br/>
-An employee called and stated that her account has been locked out due to multuple log in attempts and forgetting password. A request was made to also reset the password. I am tasked with assisting unlocking the account and resetting the password. I first right-click on users and find the name.  <br />
+An employee called and stated that her account has been locked out due to multuple log in attempts and forgetting her password. A request was made to also reset the password. I am tasked with assisting unlocking the account and resetting the password. I first right-click on users and find the name.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>

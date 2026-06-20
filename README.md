@@ -76,17 +76,31 @@ For the user that will be taking a temporary leave, I right-click and choose dis
 <br />
 
 - <b>Unlocking Account and Resetting Password</b> <br/>
-An employee called and stated that her account has been locked out due to multuple log in attempts. I am tasked with unlocking her account and resetting the password. I first right-click on users and find the name.  <br />
+An employee called and stated that her account has been locked out due to multuple log in attempts and forgetting password. A request was made to also reset the password. I am tasked with assisting unlocking the account and resetting the password. I first right-click on users and find the name.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-I navigate to the account tab and choose the box "Unlock Account" and click apply. <br />
+I navigate to the account tab and choose the box "Unlock Account" and click apply thus completing unlocking the account. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser10.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+I then proceed with right-clicking the user and choose the reset password option. <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser11.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+Password has been chosen and the user has been notified to change the password at next logon completing user resolution. <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser12.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 

@@ -24,7 +24,7 @@ John Doe is a new hire for the head of the Sales Department. I am assigned to cr
 </p>
 <br /> 
 
-I proceed with inputting his name and logon name. <br />
+I proceed with inputting his name and logon name (according to policies for this simulated company). <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>

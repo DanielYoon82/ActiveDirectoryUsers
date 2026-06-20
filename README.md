@@ -31,7 +31,7 @@ I proceed with inputting his name and logon name. <br />
 </p>
 <br />
 
-A temporary password is set for the user in which they must change with their own unique one thereafter. <br />
+A temporary password is set for the user in which they must change with their own unique one thereafter. Setting up the new user is now complete. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>

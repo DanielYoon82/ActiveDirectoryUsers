@@ -39,7 +39,7 @@ A temporary password is set for the user in which they must change with their ow
 <br />
 
 - <b>Congifuring Group Membership</b> <br/>
-The head of the Marketing Department asked to have the new hire added to their department. I right-click on the new user and choose properties.  <br />
+The head of the Marketing Department requested to add the new hire added to their group. I right-click on the new user and choose properties.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>

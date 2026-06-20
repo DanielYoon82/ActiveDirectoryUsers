@@ -53,7 +53,7 @@ The "Member Of" tab was chosen then a group added. <br />
 </p>
 <br />
 
-"Check Names" option was chosen for marketing to verify the group was correct thus completing group configuration.  <br />
+"Check Names" option was chosen for marketing to verify the group was correct completing group configuration.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -61,14 +61,14 @@ The "Member Of" tab was chosen then a group added. <br />
 <br />
 
 - <b>Deleting and Disabling User Accounts</b> <br/>
-HR has notified me that one employee will no longer will be with the company and another will be taking a temporary leave. I am tasked with deleting and disabling their accounts. First, I will delete Robert's account to take effect immediately. I right-click on the user and choose delete thus completing user deletion.  <br />
+HR has notified me that one employee will no longer will be with the company and another will be taking a temporary leave. I am tasked with deleting and disabling their accounts. First, I will delete Robert's account to take effect immediately. I right-click on the user and choose delete.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-For the user that will be taking a temporary leave, I right-click and choose disable. This now completes temporarily disabling the user account. <br />
+For the user that will be taking a temporary leave, I right-click and choose disable. Upon the employee's return, I will enable the user to restore accessibility. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser8.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -83,7 +83,7 @@ An employee called and stated that her account has been locked out due to multup
 </p>
 <br />
 
-I navigate to the account tab and choose the box "Unlock Account" and click apply thus completing unlocking the account. <br />
+I navigate to the account tab and choose the box "Unlock Account" and click apply successfully unlocking the account. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser10.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>

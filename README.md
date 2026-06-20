@@ -52,49 +52,6 @@ The "Member Of" tab was chosen then a group added. <br />
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
-- <b>Deleting Extra OU's and Users</b> <br />
-To complete deletion of a particular OU, I enabled from the Advanced Features in the view menu. <br/>
-<br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-  
-By default, OU's are protected against accidental deletion. To delete the OU, I need to enable the Advanced Features. <br />
-<br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-  
-Finally, deletion can now be completed after disabling the object. <br/>
-<br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-<br />
-
-- <b>User Delegation</b> <br />
-The IT department should be granted privileges to reset other low-privelege users' passwords. Below will demonstrate on how a particular user will be granted control over other departments. First, by right-clicking on the OU, the delegate control option is chosen. <br/>
-<br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-Phillip being the head of IT support, will be delegating control for the Sales department along with other respective departments. After clicking add, I typed in Phillip and selected to check names ensuring no errors.  <br />
-<br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-Once the user has been added, the Control Wizard prompts for tasks to delegate. I choose the reset password option and will repeat these steps for other departments.  <br />
-<br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory8.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
 <br />
 
 - <b>Summary</b> <br />

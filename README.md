@@ -75,6 +75,19 @@ For the user that will be taking a temporary leave, I right-click and choose dis
 </p>
 <br />
 
+- <b>Unlocking Account and Resetting Password</b> <br/>
+An employee called and stated that her account has been locked out due to multuple log in attempts. I am tasked with unlocking her account and resetting the password. I first right-click on users and find the name.  <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+I navigate to the account tab and choose the box "Unlock Account" and click apply. <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser10.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
 - <b>Summary</b> <br />

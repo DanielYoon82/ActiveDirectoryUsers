@@ -105,6 +105,6 @@ Password has been chosen and the user has been notified to change the password a
 <br />
 
 - <b>Summary</b> <br />
-I demonstrated using Windows Active Directory with modeling a VM to manage, delete, and create OU's. I created an OU and enabled the advanced features to allow a removal of an OU as well. Password reset priveleges was given using steps to delegate control towards applicable departments. Adjustments within Active Directory is an ever-constant effort as these instances can occur in a real-world setting. 
+I demonstrated using Windows Active Directory with modeling a VM in creating, configuring, deleting, and disabling user accounts. In addition, unlocking and resetting a password was carried out using real-world scenarios. These common tasks are vital to user management protocol and done offhand frequently. 
 <br />
 <br />

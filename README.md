@@ -1,7 +1,7 @@
 <h1>Home Lab - Managing Users in Active Directory</h1>
 
 <h2>Description</h2>
-In this virtual machine, I demonstrate managing, implenting changes, and delegating users in Active Directory.  
+In this virtual machine, I demonstrate adding, deleting, and disabling use accounts in Active Directory.  
 <br />
 
 
@@ -16,13 +16,19 @@ In this virtual machine, I demonstrate managing, implenting changes, and delegat
 <h2>Program walk-through:</h2>
 
 
-- <b>Create New Organizational Unit</b> <br />
-First, as a Domain Administrator, I viewed the OU named THM with five child OU's listed. I then created a new OU named "Students" by right-clicking THM selecting new then organizational unit.
+- <b>Create New User Account</b> <br />
+John Doe is a new hire for the head of the Sales Department. I am assigned to create him as a new user for onboarding. First, I right-click on the Sales OU, select new then user.
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />                                                                                                                                                    
+<br /> 
+
+I proceed with inputting his name and logon name. <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
 - <b>Reviewing Users and Policies</b> <br/>

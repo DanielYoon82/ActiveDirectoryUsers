@@ -1,7 +1,7 @@
 <h1>Home Lab - Managing Users in Active Directory</h1>
 
 <h2>Description</h2>
-In this virtual machine I demonstrate adding, deleting, and disabling a user account in Active Directory.  
+In this virtual machine I demonstrate user management and also including password resets in Active Directory.  
 <br />
 
 

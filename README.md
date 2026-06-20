@@ -60,6 +60,21 @@ The "Member Of" tab was chosen then a group added. <br />
 </p>
 <br />
 
+- <b>Deleting and Disabling User Accounts</b> <br/>
+HR has notified me that one employee will no longer will be with the company and another will be taking a temporary leave. I am tasked with deleting and disabling their accounts. First, I will delete Robert's account to take effect immediately. I right-click on the user and choose delete thus completing user deletion.  <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+For the user that will be taking a temporary leave, I right-click and choose disable. This now completes temporarily disabling the user account. <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser8.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 <br />
 
 - <b>Summary</b> <br />

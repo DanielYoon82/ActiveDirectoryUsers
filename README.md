@@ -31,6 +31,13 @@ I proceed with inputting his name and logon name. <br />
 </p>
 <br />
 
+A temporary password is set for the user in which they must change with their own unique one thereafter. <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 - <b>Reviewing Users and Policies</b> <br/>
 After reviewing the users in the IT department, I can see they have a limited set of polices respectable to what they are allowed to access. Password resets may also be initiated if needed. <br />
 <br />

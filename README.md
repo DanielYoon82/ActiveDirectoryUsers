@@ -38,13 +38,19 @@ A temporary password is set for the user in which they must change with their ow
 </p>
 <br />
 
-- <b>Reviewing Users and Policies</b> <br/>
-After reviewing the users in the IT department, I can see they have a limited set of polices respectable to what they are allowed to access. Password resets may also be initiated if needed. <br />
+- <b>Congifuring Group Membership</b> <br/>
+The head of the Sales Department asked to have the new hire added to their department. I right-click on the new user and choose properties.  <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+The "Member Of" tab was chosen then a group added. <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
 - <b>Deleting Extra OU's and Users</b> <br />

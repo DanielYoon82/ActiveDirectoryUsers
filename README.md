@@ -53,7 +53,7 @@ The "Member Of" tab was chosen then a group added. <br />
 </p>
 <br />
 
-"Check Names" button was clicked searching for marketing to ensure no errors. <br />
+"Check Names" button was clicked for marketing to verify the group was correct thus completing group configuration.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>

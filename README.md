@@ -70,7 +70,7 @@ By default, OU's are protected against accidental deletion. To delete the OU, I 
 Finally, deletion can now be completed after disabling the object. <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectory5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />

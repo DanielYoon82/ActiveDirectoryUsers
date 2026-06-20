@@ -97,7 +97,7 @@ I then proceed with right-clicking the user and choose the reset password option
 </p>
 <br />
 
-Password has been chosen and the user has been notified to change the password at next logon completing user resolution. <br />
+Password has been chosen and the user has been notified to change the password at next logon achieving user resolution. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser12.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>

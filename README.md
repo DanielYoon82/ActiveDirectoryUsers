@@ -49,7 +49,7 @@ The head of the Sales Department asked to have the new hire added to their depar
 The "Member Of" tab was chosen then a group added. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />

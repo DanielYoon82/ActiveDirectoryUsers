@@ -7,7 +7,7 @@ In this virtual machine I demonstrate user management, unlocking an account, and
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Windows Framework</b> 
+- <b>Windows 10</b> 
 
 <h2>Environments Used </h2>
 
